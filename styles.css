@@ -1,0 +1,75 @@
+body {
+    background-color: #14a3cf;
+}
+
+.almir {
+    text-decoration: underline;
+    text-align: center;
+    color: #db0000;
+    font-family: 'News Cycle', sans-serif;
+}
+
+a {
+    color: black;
+    font-family: 'News Cycle', sans-serif;
+}
+
+.img1 {
+    margin: 10px;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    display: block;
+    width: 400px;
+}
+
+.div1 {
+    display: flex;
+
+    width: 100px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img2 {
+    width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.flex1 {
+    display: flex;
+    width: 400px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.donate {
+    text-align: center;
+    font-family: 'News Cycle', sans-serif;
+}
+
+p {
+    text-align: center;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'News Cycle', sans-serif;
+}
+.message{
+    margin: 10px;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    display: block;
+    width: 400px;
+}
